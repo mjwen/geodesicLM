@@ -1,0 +1,6 @@
+include README.md
+recursive-include geodesicLM *.pyf *.txt Makefile
+recursive-include examples *
+recursive-include docs *
+prune docs/build
+global-exclude .DS_Store tmp_*
