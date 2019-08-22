@@ -7,6 +7,8 @@ __pycache__
 *.o
 *.a
 *.so
+*.so.dSYM
 *.pyc
 .DS_Store
+_geodesiclm*
 

@@ -26,4 +26,4 @@ libgeodesiclm.a: $(OBJS)
 
 .PHONY: clean
 clean:
-	rm -f *.a *.o
+	rm -rf *.a *.o *.so _geodesic*

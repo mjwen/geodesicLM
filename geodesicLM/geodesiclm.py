@@ -1,5 +1,5 @@
 import numpy
-import _geodesiclm
+from . import _geodesiclm
 
 
 def geodesiclm(func, x0, **kwargs):
@@ -205,7 +205,7 @@ def geodesiclm(func, x0, **kwargs):
     if 'print_level' in kwargs:
         print_level = kwargs['print_level']
     else:
-        print_level = 0
+        print_level = 3
 
     ## print_unit
     print_unit = 6

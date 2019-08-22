@@ -1,4 +1,4 @@
-from geodesiclm import geodesiclm
+from geodesicLM import geodesiclm
 import numpy as np
 
 
