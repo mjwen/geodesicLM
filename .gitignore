@@ -1,0 +1,12 @@
+#ignore the following files
+build/
+dist/
+.cache/
+*.egg-info/
+__pycache__
+*.o
+*.a
+*.so
+*.pyc
+.DS_Store
+
