@@ -28,7 +28,7 @@ $ pip install -e ./geodesicLM
 ## Example
 
 This Python interface follows [Scipy least_squares](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.least_squares.html).
-See [examply_python.py](https://github.com/mjwen/geodesicLM/blob/master/examples/example_python.py)
+See [example_python.py](https://github.com/mjwen/geodesicLM/blob/master/examples/example_python.py)
 for an example. 
 
 For more information, see [docs](https://github.com/mjwen/geodesicLM/tree/master/docs). 
